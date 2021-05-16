@@ -5,7 +5,7 @@ Download the above BigText.apk file from this link: https://drive.google.com/fil
 1. Text is displayed like a threaded conversation. Latest entered text gets shown at the bottom of the conversation.
 2. When the user closes and reopens the app, previous data is shown. This showing of previous data is handled in the background (as an Asynchronous task) so as to avoid any UI lag while using the app.
 3. Empty messages cannot be sent. The app prompts the user to provide a text input.
-4. Increment in text-size occurs upon long-pressing of the Display button, but this feature is buggy and needs to be fixed. 
+4. Increment in text-size occurs upon long-pressing of the Display button, (used CountDownTimer for the same) but this feature is buggy and needs to be fixed. 
 5. User gets a VIBRATION HAPTIC FEEDBACK when the latest entered text appears in the conversation.
 
 ## Known Bugs (yet to be fixed)
