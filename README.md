@@ -1,4 +1,5 @@
 # BigText
+Download the above BigText.apk file from this link: https://drive.google.com/file/d/1yoDyJvDyqbQsu0e9lAvOzOUHv27M1zWv/view?usp=sharing
 
 ## Key Features
 1. Text is displayed like a threaded conversation. Latest entered text gets shown at the bottom of the conversation.
